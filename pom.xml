@@ -11,7 +11,7 @@
     <groupId>com.samy</groupId>
     <artifactId>xss</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>xss</name>
+    <name>xss-masy</name>
     <description>samy xss demo</description>
     <packaging>jar</packaging>
 
